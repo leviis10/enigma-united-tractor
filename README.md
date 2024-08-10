@@ -1,6 +1,3 @@
 # United Tractors
 
-## TODO
-
--   authentication
--   create error handling
+This is repo for technical test on United Tractors provided by Enigma
